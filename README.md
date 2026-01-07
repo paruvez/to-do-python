@@ -37,7 +37,7 @@ A modern, feature-rich Todo List application built with Python and Tkinter. Stay
 
 ## 📸 Screenshots
 
-| Main Interface | Task Details | Statistics |
+| Main Interface | Add Task | Edit Task |
 |----------------|--------------|------------|
 | ![Main](screenshots/main.png) | ![Add Task](screenshots/task.png) | ![Edit Task](screenshots/edit-task.png) |
 
@@ -51,6 +51,7 @@ A modern, feature-rich Todo List application built with Python and Tkinter. Stay
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/paruvez/to-do-python.git
 
-cd todo-app
+cd to-do-python
+
